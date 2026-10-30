@@ -1,5 +1,9 @@
 # steel-browser-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/steel-browser-or-just-updated-browser-ap?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Steel Browser template](https://railway.com/deploy/steel-browser-or-just-updated-browser-ap?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Thin wrapper around [`ghcr.io/steel-dev/steel-browser`](https://github.com/steel-dev/steel-browser)
 for a one-click Railway template.
 
